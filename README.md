@@ -27,6 +27,8 @@ CI pipeline status:
 
 ### sample GIFs
 #### Android
+![android](https://user-images.githubusercontent.com/9462725/154888745-ea774f92-0bec-45f1-9fa7-09472ddc1368.gif)
+
 
 
 
