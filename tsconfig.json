@@ -1,0 +1,31 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "jsx": "react-native",
+    "lib": ["dom", "ES2020"],
+    "target": "esnext",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "noEmit": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "experimentalDecorators": true,
+    "strict": false,
+    "baseUrl": ".",
+    "paths": {
+      "~/*": ["./src/*"],
+      "assets/*": [
+        "./assets/*"
+      ],
+    },
+    "allowJs": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "noUnusedParameters": true,
+    "allowUnreachableCode": false,
+    "noUnusedLocals": true,
+    "strictFunctionTypes": true,
+    "useDefineForClassFields": true,
+  },
+  "exclude": ["node_modules", "metro.config.js", "jest.config.js"]
+}
